@@ -6,7 +6,7 @@ import Login from './sceens/Register';
 function App() {
   return (
     <div>
-    <NavBar/>
+    Registration app
     </div>
   )
 }
